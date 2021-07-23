@@ -7,7 +7,7 @@
 This is a React app, it's a basic tic-tac-toe game
 
 ## Installation 
-Copy the code and paste it in your repository.  Please don't change the code in this Repo
+Copy the code and paste it in your repository or use fork
 
 ## Usage
 Educational purposes
